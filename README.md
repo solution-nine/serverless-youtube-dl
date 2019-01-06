@@ -20,7 +20,7 @@ npm install serverless -g
 Clone the project directly from Github:
 
 ```
-git clone git@github.com:movielala/serverless-youtube-dl.git
+git clone git@github.com:solution-nine/serverless-youtube-dl.git
 ```
 
 Enter the serverless-youtube-dl folder that was just created:
