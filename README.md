@@ -31,18 +31,11 @@ cd serverless-youtube-dl
 Install all npm dependencies:
 ```
 npm install
-cd video
-npm install
-```
-
-Initialize the project:
-```
-serverless project init
 ```
 
 Deploy your functions and endpoints:
 ```
-serverless dash deploy
+serverless deploy
 ```
 
 ## Examples
